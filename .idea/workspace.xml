@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d7426-69ec-4d94-8bc8-cb9d0797bdab" name="Default Changelist" comment="" />
+    <list default="true" id="ac9d7426-69ec-4d94-8bc8-cb9d0797bdab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,22 +26,33 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="220BJNzVjcGyRyJ0ldO0KeoU2cp" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\reactproject\src\Components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\Desktop\reactproject\src" />
+      <recent name="C:\Users\Acer\Desktop\reactproject" />
+      <recent name="C:\Users\Acer\Desktop\reactproject\Styles" />
       <recent name="C:\Users\Acer\Desktop\reactproject\public" />
+      <recent name="C:\Users\Acer\Desktop\reactproject\src\Pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,10 +92,36 @@
       <workItem from="1639477164989" duration="1087000" />
       <workItem from="1639822156414" duration="14000" />
       <workItem from="1639997463798" duration="637000" />
+      <workItem from="1640077131535" duration="519000" />
+      <workItem from="1640337009662" duration="17000" />
+      <workItem from="1640425346995" duration="2346000" />
+      <workItem from="1641032989470" duration="1771000" />
+      <workItem from="1641112886001" duration="953000" />
+      <workItem from="1641289477415" duration="2676000" />
+      <workItem from="1641370681004" duration="8591000" />
+      <workItem from="1641383338868" duration="8201000" />
+      <workItem from="1641634950780" duration="2277000" />
+      <workItem from="1641644591073" duration="9072000" />
+      <workItem from="1641716056182" duration="2386000" />
+      <workItem from="1641724162139" duration="15000" />
+      <workItem from="1641724794315" duration="305000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

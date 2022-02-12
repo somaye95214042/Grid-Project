@@ -1,13 +1,21 @@
 import React from 'react';
-import './app.css';
+import Header from "./Components/Header";
+import {BrowserRouter as Router} from "react-router-dom";
+import Body from "./Components/Body";
+import Footer from "./Components/Footer";
 
-export default function App () {
+const App = () => {
 
+    return(
+        <div>
+            <Router>
+                <Header/>
+                <Body/>
+                <Footer/>
+            </Router>
+        </div>
 
-        return (
-            <div>
-                {console.log(age)}
-            </div>
-        );
+    )
 }
 
+export default App;
